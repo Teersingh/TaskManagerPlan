@@ -15,5 +15,5 @@ This repository contains the design and implementation plan for a scalable, real
 - 
 
 ## Explanation Video
-[Link to video explaining the design and implementation plan]
+https://www.loom.com/share/585580fee33b475abda1a94402f583f8?sid=f68f3bed-fdcb-4546-beab-2c90c60868ca
 
