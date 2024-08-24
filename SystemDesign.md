@@ -4,16 +4,17 @@
 [https://github.com/Teersingh/TaskManagerPlan/blob/main/System%20Design.pdf]
 
 ## Database Schema
-[]
+[https://github.com/Teersingh/TaskManagerPlan/blob/main/Database%20Schema.docx]
 
 ### Tables
 1. Users
 2. Projects
 3. Tasks
 4. Comments/Notifications
+5. Plugin
 
 
-[Describe each table, its fields, and relationships]
+
 
 ## API Structure
 - /users
