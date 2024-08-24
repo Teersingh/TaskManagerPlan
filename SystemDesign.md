@@ -1,10 +1,10 @@
 # System Design
 
 ## System Architecture Diagram
-[]
+[https://github.com/Teersingh/TaskManagerPlan/blob/main/System%20Design.pdf]
 
 ## Database Schema
-[Insert link to or embed image of database schema diagram]
+[]
 
 ### Tables
 1. Users
