@@ -1,4 +1,4 @@
-- Authentication
+1 Authentication
      1.POST /auth/register: Registers a new user. Requires user details such as username, email, and password.
      2.POST /auth/login: Authenticates a user and provides an access token for subsequent requests. Requires user credentials (e.g., email and password).
      3.POST /auth/logout: Logs out a user and invalidates their access token.
