@@ -7,12 +7,11 @@ This repository contains the design and implementation plan for a scalable, real
 - [System Design](SystemDesign.md)
 - [Implementation Plan](ImplementationPlan.md)
 - [API Documentation](API_Documentation.md)
-- [Setup Guide](Setup_Guide.md)
-- [Design Choices and Trade-offs](DesignChoices.md)
+
 
 ## Placeholder Files
-- [Backend App](src/backend/app.py)
-- [Frontend App](src/frontend/App.tsx)
+- [Backend App] : Not Implemented code
+- [Frontend App]: Not Implemented code
 - 
 
 ## Explanation Video
