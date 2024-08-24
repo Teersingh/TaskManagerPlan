@@ -18,35 +18,34 @@
 
 ## API Structure
 Endpoints:
-Authentication:
+1.Authentication:
     POST /auth/register
     POST /auth/login
     POST /auth/logout
-Users:
+2.Users:
     GET /users/
     GET /users/{user_id}
-Projects:
+3.Projects:
     GET /projects/
     POST /projects/
     GET /projects/{project_id}
     PUT /projects/{project_id}
     DELETE /projects/{project_id}
-Tasks:
+4.Tasks:
     GET /tasks/
     POST /tasks/
     GET /tasks/{task_id}
     PUT /tasks/{task_id}
     DELETE /tasks/{task_id}
-Comments:
+5.Comments:
     POST /tasks/{task_id}/comments/
     GET /tasks/{task_id}/comments/
-Notifications:
-    GET /notifications/
-Plugins:
+
+6.Plugins:
     POST /plugins/
     GET /plugins/
     PUT /plugins/{plugin_id}
-  DELETE /plugins/{plugin_id}
+    DELETE /plugins/{plugin_id}
 
 
 ## Real-time Communication Mechanism
